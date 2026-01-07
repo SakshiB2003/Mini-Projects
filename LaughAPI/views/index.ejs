@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LaughAPI</title>
+</head>
+<body>
+    <%- include("./partials/header.ejs") %>
+    <div class="container"> 
+        <div class="card-content">
+            <div class="title-tx">
+                <h2>Get Your Personalized Joke using JokeAPI!.</h2>
+                <p>Enter your name and we'll fetch a hilarious joke just for you</p>
+            </div>
+            <h6>Your Name</h6>
+            <form action="/" id="form" class="form" method="post">
+                <input type="text" id="name" name="name" placeholder="Enter your Name" required>
+                <button type="submit" class="form-submit">Get Joke</button>
+            </form>
+            <form action="/" id="form" class="form" method="post">
+                <pre class="content-area"><%= content %></pre>
+                <button type="submit" class="another-btn">↻ Another Joke (●'◡'●)</button>
+            </form>
+        </div>
+
+    </div>
+    <%- include("./partials/footer.ejs") %>
+</body>
+</html>
