@@ -7,8 +7,8 @@ Slide through your favorite characters with smooth transitions, badges, and resp
 
 ## 🌟 Live Demo
 
-*(Add your deployed URL if available, e.g., on Netlify or Render)*  
-[Live Demo Link](#)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-007ACC?style=for-the-badge&logo=google-chrome&logoColor=white)](https://laughapi.onrender.com/)  
+[![View Code](https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SakshiB2003/Mini-Projects/tree/main/LaughAPI)
 
 ---
 
