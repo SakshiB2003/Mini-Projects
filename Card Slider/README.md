@@ -7,7 +7,7 @@ Slide through your favorite characters with smooth transitions, badges, and resp
 
 ## 🌟 Live Demo
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-007ACC?style=for-the-badge&logo=google-chrome&logoColor=white)](https://laughapi.onrender.com/)  
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-007ACC?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mini-projects-jsh86xzpl-sakshib2003s-projects.vercel.app/)  
 [![View Code](https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SakshiB2003/Mini-Projects/tree/main/Card%20Slider)
 
 ---
