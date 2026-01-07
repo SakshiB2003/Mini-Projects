@@ -15,8 +15,9 @@ No sign-ups. No drama. Just laughs. 😄
 ---
 
 ## 🚀 Live Demo  
-🎉 Try it here: **https://your-app-name.onrender.com**  
-*(Replace with your actual Render link)*
+🎉 Try it here: 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-007ACC?style=for-the-badge&logo=google-chrome&logoColor=white)](https://muse-journal.onrender.com/)  
+[![View Code](https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SakshiB2003/Muse-Journal)
 
 ---
 ## 🛠️ Built With Love Using
